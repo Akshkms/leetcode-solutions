@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Collection of LeetCode questions I have solved.
+Collection of LeetCode questions I have learned and solved.
 
 ## Language
 - Python
